@@ -4,7 +4,7 @@ This is a concept of using a GitHub repository as a social media platform.
 
 I just had this idea while walking on the streets talking with my friend, and thought I'd write them down, even though I probably won't be implementing it.
 
-This README explains how each GitHub feature can contribute to making a GitHub repo as a social media platform, along with some of my other thoughts. Because these are my raw thoughts quickly written down without any proper organization, it could be quite messy and have a lot of blabbering.
+This README explains how each GitHub feature can contribute in making a GitHub repo as a social media platform, along with some of my other thoughts. Because these are my raw thoughts quickly written down without any proper organization, it could be quite messy and have a lot of blabbering.
 
 ## Goal
 
@@ -93,3 +93,13 @@ This can be useful for those who create an instance of the original repo to limi
 Also, issue templates act like forms, it can even have buttons and dropdown menus, so this seems to be something that can have a huge potential. For example, UI elements that can interact with the GitHub bot.
 
 Issue templates can also be generated/edited dynamically using GitHub Actions.
+
+### Discussions
+
+I completely forgot about this feature until my friend reminded me, so this is something added later on, it wasn't considered in the original concept.
+
+Disucssions function very similar to Issues, users can add content, comments, and reactions like how they do with Issues.
+
+What's special about Discussions is that it displays replys to comments more intuitively. It has 2 layers: Post -> Comments to Post -> Replies to Comments, whereas Issues only have 1 layer: Issue -> Comments. In Discussions, users can also sort comments by "newest", "oldest", or "top". Along with that, posts can be sorted by upvotes, a concept that doesn't exist in Issues. Even more, Discussions have "categories" and "sections" that can contain multuple categories, which allows better organization.
+
+To be fair, I felt like Discussions are better candidates than Issues for creating posts, especially with the upvote feature, which directly corresponds to "likes" in general social medias. However, the search feature in Discussions is not as feature-rich as the one in Issues, it contains significantly less search filters and doesn't have logical keywords like AND and OR. Also, I think bots can't participate in Discussions, at least I've never seen it happen. Because of these disadvantages, I still think Issues is the best candidate for creating posts, despite Discussions having some really good features.
