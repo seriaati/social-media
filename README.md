@@ -1,14 +1,14 @@
 # social-media
 
-This is a concept of using GitHub as a social media platform.
+This is a concept of using a GitHub repository as a social media platform.
 
 I just had this idea while walking on the streets and thought I'd write them down, evne though I probably won't be implementing it.
 
-This README explains how each GitHub feature can contribute to making GitHub as a social media platform, along with some of my other thoughts. Because these are my raw thoughts quickly written down without any proper organization, it could be quite messy and have a lot of blabbering.
+This README explains how each GitHub feature can contribute to making a GitHub repo as a social media platform, along with some of my other thoughts. Because these are my raw thoughts quickly written down without any proper organization, it could be quite messy and have a lot of blabbering.
 
 ## Goal
 
-The goal is to use as least external technologies as possible and use as much native GitHub features as possible to create a social media platform on GitHub. For example, making a static site that pulls information from this repo via GitHub API is not within the goal of this concept. However, building a GitHub bot to fill in features that are not natively supported by GitHub and assist the operation of the social media is acceptable.
+The goal is to use as least external technologies as possible and use as much native GitHub features as possible to create a social media platform on a GitHub repo. For example, making a static site that pulls information from this repo via GitHub API is not within the goal of this concept. However, building a GitHub bot to fill in features that are not natively supported by GitHub and assist the operation of the social media is acceptable.
 
 ## Features
 
