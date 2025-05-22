@@ -2,7 +2,7 @@
 
 This is a concept of using a GitHub repository as a social media platform.
 
-I just had this idea while walking on the streets and thought I'd write them down, evne though I probably won't be implementing it.
+I just had this idea while walking on the streets talking with my friend, and thought I'd write them down, even though I probably won't be implementing it.
 
 This README explains how each GitHub feature can contribute to making a GitHub repo as a social media platform, along with some of my other thoughts. Because these are my raw thoughts quickly written down without any proper organization, it could be quite messy and have a lot of blabbering.
 
@@ -80,7 +80,7 @@ This feature seems to have some huge potential, but I haven't thought of it yet.
 
 ### Labels
 
-Issue labels are interesting, it seems like there isn't a hard limit to them (someone have created 10,000 labels.) They are searchable, and they can carry a color and a description along with the label name itself.
+Issue labels are interesting, it seems like there isn't a hard limit on them (someone have created 10,000 labels.) They are searchable, and they can carry a color and a description along with the label name itself.
 
 The only issue is that it's can't be applied by the issue creator themself, but rather by the repo maintainers. This is why I didn't use issue labels for tagging topics (well, writing tags manually are more flexible than issue labels, anyways.)
 
